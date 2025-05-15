@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PersoTrescon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67bbcae1d368087d2ae61bb18c26422f06639aaf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c35d32505b5ecf7041ae57219772cc1df55c566")]
 [assembly: System.Reflection.AssemblyProductAttribute("PersoTrescon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PersoTrescon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

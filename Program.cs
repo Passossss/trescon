@@ -6,6 +6,16 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<PersonContext>();
+builder.Services.AddCors(options =>
+{
+    options.AddDefaultPolicy(
+        policy =>
+        {
+            policy.AllowAnyOrigin()
+                .AllowAnyMethod()
+                .AllowAnyHeader();
+        });
+});
 
 var app = builder.Build();
 
@@ -16,7 +26,7 @@ if (app.Environment.IsDevelopment())
 }
 
 //PersonRoute.PersonRoutes(app);
-
+app.UseCors();
 app.PersonRoutes(); //extensao metodo usado aq
 
 app.UseHttpsRedirection();
