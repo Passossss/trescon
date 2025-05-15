@@ -1,4 +1,4 @@
-INTEGRADO FRONT END
+INTEGRADO FRONT END - https://github.com/Passossss/trescon-people-api
 ![image](https://github.com/user-attachments/assets/9e369aa0-4ab1-401e-9e20-4a9943b249dc)
 
 
