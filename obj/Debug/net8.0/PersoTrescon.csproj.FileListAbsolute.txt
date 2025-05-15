@@ -135,3 +135,4 @@ C:\Users\Gustavo Passos\Desktop\PersoTrescon\obj\Debug\net8.0\refint\PersoTresco
 C:\Users\Gustavo Passos\Desktop\PersoTrescon\obj\Debug\net8.0\PersoTrescon.pdb
 C:\Users\Gustavo Passos\Desktop\PersoTrescon\obj\Debug\net8.0\PersoTrescon.genruntimeconfig.cache
 C:\Users\Gustavo Passos\Desktop\PersoTrescon\obj\Debug\net8.0\ref\PersoTrescon.dll
+C:\Users\Gustavo Passos\Desktop\PersoTrescon\obj\Debug\net8.0\PersoTrescon.sourcelink.json
