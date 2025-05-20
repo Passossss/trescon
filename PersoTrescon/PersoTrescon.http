@@ -1,0 +1,6 @@
+@PersoTrescon_HostAddress = http://localhost:5186
+
+GET {{PersoTrescon_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
